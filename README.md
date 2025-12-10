@@ -92,36 +92,6 @@ Natural_Disaster_Analysis/
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/Natural_Disaster_Analysis.git
-```
-
-2. Install required R packages:
-
-```R
-install.packages(c("dplyr", "ggplot2", "lubridate", "tidyr"))
-```
-
-3. Run the cleaning script:
-
-```R
-source("scripts/cleaning_script.R")
-```
-
-4. Run the analysis script:
-
-```R
-source("scripts/analysis_script.R")
-```
-
-5. View output charts inside the `outputs/` folder.
-
----
-
 ## 🧠 Future Enhancements
 
 * Add forecasting using ARIMA / Prophet.
